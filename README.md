@@ -9,7 +9,7 @@ You don't need Unity to play this game! Follow these simple steps:
 1. Go to the **https://github.com/vxdt7/Personal-Proyect_Visual-Novel/releases/tag/V1.0.0 **
 2. Download the `Visual-Novel-Build.zip` file under Assets.
 3. Extract the ZIP folder on your computer.
-4. Double-click **[NombreDeTuJuego].exe** to launch and play!
+4. Double-click **WhereTheDeadEnd** launch and play!
 
 ## 🛠️ Technical Features & Skills Demonstrated
 * **Engine:** Unity.
