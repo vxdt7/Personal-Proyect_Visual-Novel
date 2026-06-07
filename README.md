@@ -6,10 +6,9 @@ A narrative-driven visual novel developed in **Unity** and scripted in **C#**. T
 
 You don't need Unity to play this game! Follow these simple steps:
 
-1. Go to the **https://github.com/vxdt7/Personal-Proyect_Visual-Novel/releases/tag/V1.0.0 **
-2. Download the `Visual-Novel-Build.zip` file under Assets.
-3. Extract the ZIP folder on your computer.
-4. Double-click **WhereTheDeadEnd** launch and play!
+1. Go to the **[Releases Section](https://github.com/vxdt7/Personal-Proyect_Visual-Novel/releases)** on the right side of this page.
+2. **For Windows Users:** Download `WhereTheDeadEnd_Windows.zip`, extract the folder, and launch the `.exe` file.
+3. **For macOS Users:** Download `WhereTheDeadEnd_macOS.zip` (or your current Mac zip name), extract it, and launch the application.
 
 ## 🛠️ Technical Features & Skills Demonstrated
 * **Engine:** Unity.
